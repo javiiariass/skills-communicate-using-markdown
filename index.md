@@ -6,3 +6,7 @@ De momento explica las siguientes cabezeras:
 "<sup>loquesea</sup>": para exponente.
 Añadir imagen: "![descripcionDeImagen]""(enlaceDeImagen)"
 ![Imagen de Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` c++
+std::cout << "hola mundo\n";
+```
+
